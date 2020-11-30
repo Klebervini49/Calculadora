@@ -1,4 +1,4 @@
-print('Tabuada')
+print('Calculadora')
 
 print('')
 numero = int(input('Digite um número\n> '))
