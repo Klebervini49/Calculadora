@@ -3,7 +3,7 @@ print('Tabuada')
 print('')
 numero = int(input('Digite um número\n> '))
 # Começo
-n0: int = numero * 1
+n0 = numero * 1
 n1 = numero * 2
 n2 = numero * 3
 n3 = numero * 4
